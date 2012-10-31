@@ -1,4 +1,4 @@
-= Star Wars: Shadows Of The Empire Crack
+# Star Wars: Shadows Of The Empire Crack
 
 This is a code I wrote a long time ago (in a galaxy far, far away :-) when
 studying a little bit of assembly and reverse engineering techniques. So,
